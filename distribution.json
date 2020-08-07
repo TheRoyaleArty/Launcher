@@ -298,9 +298,9 @@
                     }
                 },
 				{
-                    "id": "ironchest:ironchest:prod",
+                    "id": "delta.deltaa:deltacheat:prod",
                     "name": "delta",
-                    "type": "ForgeMod",
+                    "type": "PalaMod",
                     "artifact": {
                         "url": "https://ufile.io/g0ntc766"
                     }
