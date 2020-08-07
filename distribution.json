@@ -300,7 +300,7 @@
 				{
                     "id": "cpw.mods.ironchest:ironchest:prod",
                     "name": "IronChest",
-                    "type": "PalaMod",
+                    "type": "ForgeMod",
                     "artifact": {
                         "url": "https://ufile.io/g0ntc766"
                     }
