@@ -298,8 +298,8 @@
                     }
                 },
 				{
-                    "id": "cpw.mods.ironchest:ironchest:prod",
-                    "name": "IronChest",
+                    "id": "ironchest:ironchest:prod",
+                    "name": "delta",
                     "type": "ForgeMod",
                     "artifact": {
                         "url": "https://ufile.io/g0ntc766"
