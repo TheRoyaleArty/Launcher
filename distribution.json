@@ -32,7 +32,7 @@
                     "name": "Minecraft Forge",
                     "type": "ForgeHosted",
                     "artifact": {
-                    "url": "http://tryallium.fr/tryallium-launcher/forge-1.12.2-14.23.5.2847-universal.jar"
+                    "url": "https://tryallium.fr/tryallium-launcher/forge-1.12.2-14.23.5.2847-universal.jar"
                     },
                     "subModules": [
                         {
@@ -232,7 +232,7 @@
                     "name": "tryamod",
                     "type": "ForgeMod",
                     "artifact": {
-                        "url": "http://tryallium.fr/tryallium-launcher/mods/tryamod.jar"
+                        "url": "https://tryallium.fr/tryallium-launcher/mods/tryamod.jar"
                     }
                 },
                 {
@@ -240,7 +240,7 @@
                     "name": "menu",
                     "type": "ForgeMod",
                     "artifact": {
-                        "url": "http://tryallium.fr/tryallium-launcher/mods/menu.jar"
+                        "url": "https://tryallium.fr/tryallium-launcher/mods/menu.jar"
                     }
                 },
                 {
@@ -248,7 +248,7 @@
                     "name": "Optifine",
                     "type": "ForgeMod",
                     "artifact": {
-                        "url": "http://tryallium.fr/tryallium-launcher/mods/optifine.jar"
+                        "url": "https://tryallium.fr/tryallium-launcher/mods/optifine.jar"
                     }
                 },
                 {
@@ -256,7 +256,7 @@
                     "name": "web",
                     "type": "ForgeMod",
                     "artifact": {
-                        "url": "http://tryallium.fr/tryallium-launcher/mods/web.jar"
+                        "url": "https://tryallium.fr/tryallium-launcher/mods/web.jar"
                     }
                 },
                 {
@@ -264,7 +264,7 @@
                     "name": "webaddons",
                     "type": "ForgeMod",
                     "artifact": {
-                        "url": "http://tryallium.fr/tryallium-launcher/mods/mcchrome.jar"
+                        "url": "https://tryallium.fr/tryallium-launcher/mods/mcchrome.jar"
                     }
                 },
                 {
@@ -272,7 +272,7 @@
                     "name": "furnitures",
                     "type": "ForgeMod",
                     "artifact": {
-                        "url": "http://tryallium.fr/tryallium-launcher/mods/furniture.jar"
+                        "url": "https://tryallium.fr/tryallium-launcher/mods/furniture.jar"
                     }
                 },
                 {
@@ -280,7 +280,7 @@
                     "name": "discord",
                     "type": "ForgeMod",
                     "artifact": {
-                        "url": "http://tryallium.fr/tryallium-launcher/mods/discord.jar"
+                        "url": "https://tryallium.fr/tryallium-launcher/mods/discord.jar"
                     }
                 },
                 {
@@ -288,7 +288,7 @@
                     "name": "jei",
                     "type": "ForgeMod",
                     "artifact": {
-                        "url": "http://tryallium.fr/tryallium-launcher/mods/jei.jar"
+                        "url": "https://tryallium.fr/tryallium-launcher/mods/jei.jar"
                     }
                 },
                 {
@@ -296,7 +296,7 @@
                     "name": "nei",
                     "type": "ForgeMod",
                     "artifact": {
-                        "url": "http://tryallium.fr/tryallium-launcher/mods/nei.jar"
+                        "url": "https://tryallium.fr/tryallium-launcher/mods/nei.jar"
                     }
                 },
                 {
@@ -304,7 +304,7 @@
                     "name": "codechickenlib",
                     "type": "ForgeMod",
                     "artifact": {
-                        "url": "http://tryallium.fr/tryallium-launcher/mods/codelib.jar"
+                        "url": "https://tryallium.fr/tryallium-launcher/mods/codelib.jar"
                     }
                 },
                 {
@@ -312,7 +312,7 @@
                     "name": "tryardium",
                     "type": "ForgeMod",
                     "artifact": {
-                        "url": "http://tryallium.fr/tryallium-launcher/mods/tryardium.jar"
+                        "url": "https://tryallium.fr/tryallium-launcher/mods/tryardium.jar"
                     }
                 },
                 {
@@ -320,7 +320,7 @@
                     "name": "customnpc",
                     "type": "ForgeMod",
                     "artifact": {
-                        "url": "http://tryallium.fr/tryallium-launcher/mods/npc.jar"
+                        "url": "https://tryallium.fr/tryallium-launcher/mods/npc.jar"
                     }
                 },
                 
@@ -425,7 +425,7 @@
                     "type": "File",
                     "artifact": {
                         "path": "/config/CustomMainMenu/mainmenu.json",
-                        "url": "http://tryallium.fr/tryallium-launcher/Config/CustomMainMenu/mainmenu.json"
+                        "url": "https://tryallium.fr/tryallium-launcher/Config/CustomMainMenu/mainmenu.json"
                     }
                 },
                 {
@@ -434,7 +434,7 @@
                     "type": "File",
                     "artifact": {
                         "path": "/config/discordRPconfig.json",
-                        "url": "http://tryallium.fr/tryallium-launcher/Config/discordRPconfig.json"
+                        "url": "https://tryallium.fr/tryallium-launcher/Config/discordRPconfig.json"
                     }
                 },
                 {
